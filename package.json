@@ -43,7 +43,7 @@
     "test": "make test-all"
   },
   "dependencies": {
-    "co": "4.6.0",
+    "co": "https://github.com/luxe-eng/valet-express.co/archive/4.6.0.1a.tar.gz",
     "commander": "2.3.0",
     "debug": "2.0.0",
     "diff": "1.4.0",
